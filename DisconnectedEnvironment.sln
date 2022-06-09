@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectedEnvironment", "DisconnectedEnvironment\DisconnectedEnvironment.csproj", "{F3127159-4FC1-4402-BFBD-6212C582B160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3127159-4FC1-4402-BFBD-6212C582B160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3127159-4FC1-4402-BFBD-6212C582B160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3127159-4FC1-4402-BFBD-6212C582B160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3127159-4FC1-4402-BFBD-6212C582B160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD75571C-8903-48EC-8E57-4895D78C0C5F}
+	EndGlobalSection
+EndGlobal
